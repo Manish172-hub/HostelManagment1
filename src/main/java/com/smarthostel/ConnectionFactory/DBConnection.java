@@ -5,7 +5,7 @@ import java.sql.DriverManager;
 
 public class DBConnection {
 
-	private static final String URL = "jdbc:mysql://localhost:3306/hostelmanagement";
+	private static final String URL =  "jdbc:mysql://mysql-db:3306/hostel_db?useSSL=false&allowPublicKeyRetrieval=true";
 	private static final String USER = "root";
 	private static final String PASSWORD = "pass";
 
