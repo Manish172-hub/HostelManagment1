@@ -7,7 +7,7 @@ public class DBConnection {
 
 	private static final String URL =  "jdbc:mysql://mysql-db:3306/hosteldb?useSSL=false&allowPublicKeyRetrieval=true";
 	private static final String USER = "root";
-	private static final String PASSWORD = "root";
+	private static final String PASSWORD = "root12345678";
 
 	public static Connection getConnection() {
 		try {
