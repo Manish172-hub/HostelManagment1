@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.hostel</groupId>
-    <artifactId>HostelManagementSystem</artifactId>
+    <artifactId>HostelManagementSystems</artifactId>
     <packaging>war</packaging>
     <version>0.0.1-SNAPSHOT</version>
     <name>HostelManagementSystem Maven Webapp</name>
